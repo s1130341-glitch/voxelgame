@@ -1,0 +1,7 @@
+{
+  "name": "VoxelCraft Sandbox",
+  "description": "A 3D voxel sandbox game built with React, Three.js, and Tailwind CSS, featuring procedural terrain, chunking, and an inventory system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
